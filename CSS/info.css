@@ -10,7 +10,7 @@
     justify-content: center;
 }
 .info-pet{
-    margin: 20px;
+    margin: 10px;
 }
 .info-pet img{
     width: 190px;
@@ -25,6 +25,6 @@
 }
 @media (min-width:1024px){
     .info-pet{
-        width: auto;
+        width:auto;
     }
 }
